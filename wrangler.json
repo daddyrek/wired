@@ -1,8 +1,9 @@
 {
-  "name": "wired2k",
+  "name": "wired",
   "main": "index.js",
   "site": {
     "bucket": "./"
   },
   "compatibility_date": "2025-09-04"
 }
+
