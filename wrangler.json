@@ -1,7 +1,7 @@
 {
   "name": "wired",
   "compatibility_date": "2025-09-04",
-  "assets": {
-    "directory": "."
+  "site": {
+    "bucket": "."
   }
 }
